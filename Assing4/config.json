@@ -1,0 +1,9 @@
+{
+    "url": "ws://localhost:8765",
+    "test_duration": 60,
+    "heartbeat_interval": 5,
+    "heartbeat_timeout": 10,
+    "reconnect_delay": 2,
+    "latency_threshold": 1000
+}
+

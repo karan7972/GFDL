@@ -1,0 +1,10 @@
+============================================
+       WEBSOCKET MONITOR REPORT
+=============================================
+WebSocket URL       : ws://localhost:8765
+Test duration       : 120 seconds
+Total messages      : 21
+Average delay       : 5012.50 ms
+Latency threshold   : 1000 ms
+=============================================
+Monitoring completed.

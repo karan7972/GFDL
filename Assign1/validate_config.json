@@ -1,0 +1,23 @@
+{
+    "required_fields": [
+        "Exchange",
+        "InstrumentIdentifier",
+        "LastTradeTime",
+        "ServerTime",
+        "Last",
+        "Close",
+        "High",
+        "Low"
+    ],
+    "price_fields": [
+        "Last",
+        "Close",
+        "High",
+        "Low"
+    ],
+    "timestamp_fields": [
+        "LastTradeTime",
+        "ServerTime"
+    ],
+    "check_price_range": true
+}

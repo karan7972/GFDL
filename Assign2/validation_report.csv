@@ -1,0 +1,5 @@
+CSV_Row,Error
+4,Duplicate record
+6,Missing symbol
+7,Invalid trading date
+7,Invalid trade time
