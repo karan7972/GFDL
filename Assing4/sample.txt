@@ -1,0 +1,94 @@
+
+
+Connecting to server...
+Connected successfully!
+
+Message: Hello WebSocket
+Received at: 2026-10-10T18:04:03+05:30
+Message count: 1
+
+Message: Hello WebSocket
+Received at: 2026-10-10T18:04:08+05:30
+Message count: 2
+Inter-message delay: 5000.0 ms
+WARNING: Latency threshold exceeded!
+
+Message: Hello WebSocket
+Received at: 2026-10-10T18:04:13+05:30
+Message count: 3
+Inter-message delay: 5000.0 ms
+WARNING: Latency threshold exceeded!
+
+Connection/disconnection error: no close frame received or sent
+Reconnecting in 2 seconds...
+
+Connecting to server...
+Connection/disconnection error: [WinError 1225] The remote computer refused the network connection
+Reconnecting in 2 seconds...
+
+Connecting to server...
+Connection/disconnection error: [WinError 1225] The remote computer refused the network connection
+Reconnecting in 2 seconds...
+
+Connecting to server...
+Connection/disconnection error: [WinError 1225] The remote computer refused the network connection
+Reconnecting in 2 seconds...
+
+Connecting to server...
+Connected successfully!
+
+Message: Hello WebSocket
+Received at: 2026-10-10T18:04:40+05:30
+Message count: 4
+Inter-message delay: 27407.0 ms
+WARNING: Latency threshold exceeded!
+
+Message: Hello WebSocket
+Received at: 2026-10-10T18:04:45+05:30
+Message count: 5
+Inter-message delay: 5000.0 ms
+WARNING: Latency threshold exceeded!
+
+Message: Hello WebSocket
+Received at: 2026-10-10T18:04:50+05:30
+Message count: 6
+Inter-message delay: 5015.0 ms
+WARNING: Latency threshold exceeded!
+
+Message: Hello WebSocket
+Received at: 2026-10-10T18:04:55+05:30
+Message count: 7
+Inter-message delay: 5016.0 ms
+WARNING: Latency threshold exceeded!
+
+Message: Hello WebSocket
+Received at: 2026-10-10T18:05:00+05:30
+Message count: 8
+Inter-message delay: 5000.0 ms
+WARNING: Latency threshold exceeded!
+
+Message: Hello WebSocket
+Received at: 2026-10-10T18:05:05+05:30
+Message count: 9
+Inter-message delay: 5016.0 ms
+WARNING: Latency threshold exceeded!
+
+Message: Hello WebSocket
+Received at: 2026-10-10T18:05:10+05:30
+Message count: 10
+Inter-message delay: 5015.0 ms
+WARNING: Latency threshold exceeded!
+
+Message: Hello WebSocket
+Received at: 2026-10-10T18:05:15+05:30
+Message count: 11
+Inter-message delay: 5000.0 ms
+WARNING: Latency threshold exceeded!
+
+Message: Hello WebSocket
+Received at: 2026-10-10T18:05:20+05:30
+Message count: 12
+Inter-message delay: 5016.0 ms
+WARNING: Latency threshold exceeded!
+
+Monitoring stopped by user (Ctrl+C).
