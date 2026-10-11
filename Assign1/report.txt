@@ -1,0 +1,22 @@
+
+LastTradeTime UTC: 2026-10-10T13:30:00+00:00
+LastTradeTime IST: 2026-10-10T19:00:00+05:30
+ServerTime UTC: 2026-10-10T13:30:10+00:00
+ServerTime IST: 2026-10-10T19:00:10+05:30
+
+========== VALIDATION REPORT ==========
+Status: PASS
+All validation checks passed.
+=======================================
+
+
+
+ServerTime UTC: 2026-10-10T13:30:10+00:00
+ServerTime IST: 2026-10-10T19:00:10+05:30
+
+========== VALIDATION REPORT ==========
+Status: FAIL
+Total errors: 2
+1. Negative price: Last
+2. Invalid timestamp: LastTradeTime
+=======================================
